@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "**/.vs": true,
+    "**/Backup.csproj": true,
+    "**/Backup.sln": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/Properties": true,
+    "**/README.md": true,
+    "**/.git**": true,
+    "**/.editorconfig": true
+  }
+}
